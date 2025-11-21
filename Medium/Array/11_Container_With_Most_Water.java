@@ -1,3 +1,4 @@
+package Medium.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 class Solution {

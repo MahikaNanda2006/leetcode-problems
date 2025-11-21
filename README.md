@@ -46,3 +46,19 @@ Currently solved: **37 problems**.
 | 143 | Reorder List                                | Medium     | [Java](medium/LinkedList/143_reorder_list.java) |
 | 203 | Remove Linked List Elements                 | Easy       | [Java](easy/LinkedList/203_remove_linked_list_elements.java) |
 | 206 | Reverse Linked List                         | Easy       | [Java](easy/LinkedList/206_reverse_linked_list.java) |
+| 104 | Maximum Depth of Binary Tree                | Easy       | [Java](easy/Trees/104_Maximum_Depth_of_Bt.java) |
+| 104 | Validate BST                                | Medium       | [Java](medium/Trees/98_Validate_BST.java) |
+| 101 | Symmetric Tree                              | Easy       | [Java](easy/Trees/101_Symmetric_Tree.java) |
+| 102 | Binary Tree LOT                             | Medium       | [Java](medium/Trees/102_Binary_Tree_LOT.java) |
+| 102 | Lowest Common Ancestor of a Binary Tree     | Medium       | [Java](medium/Trees/236_LCA_of_a_BT.java) |
+| 200 | Number of Islands                           | Medium       | [Java](medium/Graphs/200_Number_Of_Islands.java) |
+| 207 | Course Schedule                             | Medium       | [Java](medium/Graphs/207_Course_Schedule.java) |
+| 133 | Clone Graph                                 | Medium       | [Java](medium/Graphs/133_Clone_Graph.java) |
+| 743 | Network Delay Time                          | Medium       | [Java](medium/Graphs/743_Network_Delay_Time.java) |
+| 509 | Fibonacci Number                            | Easy         | [Java](easy/DP/509_Fibonacci_Number.java) |
+| 70  | Climbing Stairs                             | Easy         | [Java](easy/DP/70_Climbing_Stairs.java) |
+| 674 | Longest Continuous Increasing Subsequence   | Easy         | [Java](easy/Array/674_LCIS.java) |
+| 300 | Longest Increasing Subsequence              | Medium       | [Java](medium/DP/300_LIS.java) |
+| 300 | Maximum Subarray                            | Medium       | [Java](medium/DP/53_Maximum_Subarray.java) |
+| 1800| Maximum Ascending Subarray                  | Easy         | [Java](easy/Array/1800_Maximum_Ascending_Subarray.java) |
+| 322 | Coin Change                                 | Medium       | [Java](medium/DP/322_Coin_Change.java) |
